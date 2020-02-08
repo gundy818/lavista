@@ -1,0 +1,17 @@
+= lavista
+
+This is a tool to visualise the network configuration of a linux host. It will be able
+to draw what is running with interfaces, bridges, namespaces etc.
+
+Configurations are becoming more complicated with VMs, containers and namespaces, and it
+can be hard to figure out what's going on. Hopefully this will help.
+
+
+== Language
+
+I'll use python just because it's available on everything these days. But you will be
+able to dump the data so it can be used with other tools.
+
+
+// vim: textwidth=88
+
