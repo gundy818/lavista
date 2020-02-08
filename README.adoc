@@ -7,6 +7,12 @@ Configurations are becoming more complicated with VMs, containers and namespaces
 can be hard to figure out what's going on. Hopefully this will help.
 
 
+== Usage
+
+Currently you just run it. It takes no arguments, and always writes what it finds to
+'network.yaml'.
+
+
 == Language
 
 I'll use python just because it's available on everything these days. But you will be
